@@ -17,21 +17,21 @@ The goal of this project is to provide a clean, simple example of deploying appl
 
 
 <h1>What This Deployment Includes</h1>
-1. Azure Web App
+<h4>1. Azure Web App</h4>
 
 A lightweight web application that displays a basic HTML page for testing cloud deployments.
 
 Designed to validate that App Service + GitHub integration works correctly.
 
-2. Azure SQL Server + Database
+<h4>2. Azure SQL Server + Database</h4>
 
 Terraform automatically provisions:
 
 Azure SQL Server
 
-SQL Database (configurable)
+SQL Database 
 
-Firewall rules (optional)
+Firewall rules 
 
 Connection settings
 
