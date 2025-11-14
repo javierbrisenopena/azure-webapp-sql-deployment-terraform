@@ -1,5 +1,6 @@
 Educational Web App + SQL Deployment (Terraform)
 
+
 This project deploys a complete educational environment using Terraform, including:
 
 An Azure App Service Web App
@@ -13,6 +14,7 @@ Automatically inserted generic SQL test data
 A static HTML page that serves as the demo front-end
 
 The goal of this project is to provide a clean, simple example of deploying application + database infrastructure using Infrastructure-as-Code, ideal for learning, testing, and demonstration purposes.
+
 
 What This Deployment Includes
 1. Azure Web App
